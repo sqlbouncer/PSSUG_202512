@@ -1,3 +1,6 @@
+USE AdventureWorks
+GO
+
 -- insert into the vector table using AI_GENERATE_EMBEDDINGS function
 DROP TABLE IF EXISTS #TMPPRoducts;
  

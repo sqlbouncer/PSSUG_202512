@@ -1,3 +1,6 @@
+USE AdventureWorks
+GO
+
 SELECT v.Name + ' ' + ISNULL(p.Color, 'No Color') + ' ' + pc.Name + ' ' + v.ProductModel + ' '
        + ISNULL('Category: '+ pc.name+ '-' +ps.name,'')+' '
        + ISNULL(v.Description, '') + ' ' + 'price:' + CAST(p.ListPrice AS VARCHAR(20)) + ' '

@@ -1,3 +1,6 @@
+USE AdventureWorks
+GO
+
 create schema [vectors];
 GO
  

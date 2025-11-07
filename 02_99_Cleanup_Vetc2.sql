@@ -1,3 +1,6 @@
+USE AdventureWorks
+GO
+
 -- Clean Demo 2
 
 DROP INDEX [vec_idx] ON [vectors].[product_vectors]
