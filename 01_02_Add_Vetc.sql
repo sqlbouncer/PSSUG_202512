@@ -1,3 +1,6 @@
+USE AdventureWorks
+GO
+
 Truncate table Products
 INSERT INTO Products (ProductId, ProductName, Embedding)
 VALUES
