@@ -1,7 +1,7 @@
 USE AdventureWorks
 GO
 
-DECLARE @querytext NVARCHAR (3000) ='I want products blue bikes' 
+DECLARE @querytext NVARCHAR (3000) ='I want for my hands' 
 DECLARE @search_vector vector(768) =  AI_GENERATE_EMBEDDINGS(@querytext USE MODEL MyOllamaModel);
 
 SELECT top (10) VECTOR_DISTANCE('cosine', @search_vector, [embeddings]) AS distance,

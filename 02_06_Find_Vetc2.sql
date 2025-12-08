@@ -1,7 +1,7 @@
 USE AdventureWorks
 GO
 
-DECLARE @querytext NVARCHAR (3000) ='I want products for my hands' 
+DECLARE @querytext NVARCHAR (3000) ='I want stuff for my hands' 
 DECLARE @search_vector vector(768) =  AI_GENERATE_EMBEDDINGS(@querytext USE MODEL MyOllamaModel);
  
 SELECT 

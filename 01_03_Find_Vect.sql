@@ -2,7 +2,7 @@ USE AdventureWorks
 GO
 
 DECLARE @queryProductEmbedding VECTOR(3);
-SELECT @queryProductEmbedding = Embedding FROM Products WHERE ProductId = 103; -- Get embedding of 'Blue T-Shirt'
+SELECT @queryProductEmbedding = Embedding FROM Products WHERE ProductId = 103; -- Get embedding of 'Green Hat'
 
 Select @queryProductEmbedding
 select * from Products
