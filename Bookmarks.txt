@@ -1,0 +1,16 @@
+https://github.com/sqlbouncer/PSSUG_202512
+https://mssqlfun.com/2025/07/29/from-ai-to-json-whats-new-in-sql-server-2025-data-types-with-scripts/#google_vignette
+https://learn.microsoft.com/en-us/sql/sql-server/what-s-new-in-sql-server-2025?view=sql-server-ver17
+https://learn.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-invoke-external-rest-endpoint-transact-sql?view=sql-server-ver17&tabs=request-headers
+https://learn.microsoft.com/en-us/sql/t-sql/functions/vector-functions-transact-sql?view=sql-server-ver17
+https://www.mssqltips.com/sqlservertip/8299/vector-search-in-sql-server/
+https://learn.microsoft.com/en-us/sql/sql-server/ai/vectors?view=sql-server-ver17
+https://www.architecture-performance.fr/ap_blog/get-your-embeddings-on-sql-server-2025-with-ai_generate_embeddings-and-external-model-using-ollama-local-and-your-gpu/
+https://devblogs.microsoft.com/azure-sql/embedding-models-and-dimensions-optimizing-the-performance-resource-usage-ratio/
+https://www.mssqltips.com/sqlservertip/8285/sql-server-semantic-search-using-ai-features/
+https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/ai-in-sql-server-2025-embeddings/
+https://www.microsoft.com/en-us/research/publication/diskann-fast-accurate-billion-point-nearest-neighbor-search-on-a-single-node/
+https://zilliz.com/glossary/anns
+https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf
+https://www.microsoft.com/en-us/research/project/project-akupara-approximate-nearest-neighbor-search-for-large-scale-semantic-search/
+https://dev.to/pavanbelagatti/what-is-vector-similarity-search-2b6g
